@@ -1,2 +1,2 @@
-# dio-github-desafio-primeiro-repositorio
-Desafio de projeto de Git/Github do Bootcamp Impulso JS (DIO)
+## dio-github-desafio-primeiro-repositorio
+Repositório criado para o desafio de projeto de Git/Github do Bootcamp Impulso JS (DIO)
