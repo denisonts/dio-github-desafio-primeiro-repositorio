@@ -1,0 +1,8 @@
+C:\Users\denis\Desktop\Curso C#\Udemy 1011\Udemy\bin\Debug\Udemy.exe.config
+C:\Users\denis\Desktop\Curso C#\Udemy 1011\Udemy\bin\Debug\Udemy.exe
+C:\Users\denis\Desktop\Curso C#\Udemy 1011\Udemy\bin\Debug\Udemy.pdb
+C:\Users\denis\Desktop\Curso C#\Udemy 1011\Udemy\obj\Debug\Udemy.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Curso C#\Udemy 1011\Udemy\obj\Debug\Udemy.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Desktop\Curso C#\Udemy 1011\Udemy\obj\Debug\Udemy.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Curso C#\Udemy 1011\Udemy\obj\Debug\Udemy.exe
+C:\Users\denis\Desktop\Curso C#\Udemy 1011\Udemy\obj\Debug\Udemy.pdb
